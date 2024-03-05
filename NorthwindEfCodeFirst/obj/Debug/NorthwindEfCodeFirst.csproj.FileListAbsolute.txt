@@ -1,0 +1,12 @@
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\NorthwindEfCodeFirst.exe.config
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\NorthwindEfCodeFirst.exe
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\NorthwindEfCodeFirst.pdb
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\EntityFramework.dll
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\EntityFramework.xml
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.csproj.AssemblyReference.cache
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.csproj.CoreCompileInputs.cache
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\Northwin.9129A2E5.Up2Date
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.exe
+D:\Proje\C#\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.pdb
